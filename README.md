@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <h3><b>Installation steps:</b></h3><br/>
 
-<code>git clone  https://github.com/byorkit/ong-hub-back.git</code>
+<code>git clone  https://github.com/azimbekxaydarov946/MyCRUD.git</code>
 
 <code>cd MyCRUD</code>
 
